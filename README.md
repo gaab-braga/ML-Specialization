@@ -22,7 +22,7 @@
   <a href="#-projetos-em-destaque">Projetos</a> •
   <a href="#-estrutura-do-repositório">Estrutura</a> •
   <a href="#-como-executar-localmente">Como Executar</a> •
-  <a href="#-licença-e-créditos">Licença</a>
+  <a href="#️-licença-e-créditos">Licença</a>
 </p>
 
 ---
