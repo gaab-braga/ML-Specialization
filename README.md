@@ -21,7 +21,8 @@
   <a href="#-sobre-a-especialização">Sobre</a> •
   <a href="#-projetos-em-destaque">Projetos</a> •
   <a href="#-estrutura-do-repositório">Estrutura</a> •
-  <a href="#-como-executar-localmente">Como Executar</a> 
+  <a href="#-como-executar-localmente">Como Executar</a> •
+  <a href="#-licença-e-créditos">Licençar</a>
 </p>
 
 ---
@@ -95,3 +96,8 @@ jupyter lab
 
 ---
 
+## ⚖️ Licença e Créditos
+Este repositório contém minhas implementações dos exercícios da especialização.  
+Uso educacional e de portfólio, respeitando a licença original do curso.  
+
+Créditos: **Andrew Ng & DeepLearning.AI (Coursera)**  
