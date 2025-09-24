@@ -3,14 +3,10 @@
 <img src="assets/dp.ai.png" alt="Certificado Machine Learning Specialization" height="100">
 </p>
 
-<h1 align="center">Machine Learning Specialization — Portfólio de Projetos</h1>
+<h1 align="center">Machine Learning Specialization</h1>
 
 <p align="center">
   <strong>Implementações e anotações da especialização de Machine Learning da DeepLearning.AI / Coursera</strong>
-</p>
-
-<p align="center">
-  <img src="./assets/badge_ml_specialization.png" alt="Badge Machine Learning Specialization" width="140">
 </p>
 
 <p align="center">
@@ -97,12 +93,6 @@ pip install -r requirements.txt
 # 4. Abra Jupyter / VSCode / outro para rodar os notebooks
 jupyter lab
 ```
-
----
-
-<p align="center">
-  <img src="./assets/badge_ml_specialization.png" alt="Badge Machine Learning Specialization" width="180">
-</p>
 
 ---
 
