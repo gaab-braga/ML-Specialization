@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./assets/banner_ml_specialization.png" alt="Banner Machine Learning Specialization" width="800" style="border-radius: 8px;">
+<img src="assets/stanford.png" alt="Badge Machine Learning Specialization" height="100"> |
+<img src="assets/dp.ai.png" alt="Certificado Machine Learning Specialization" height="100">
 </p>
 
 <h1 align="center">Machine Learning Specialization — Portfólio de Projetos</h1>
@@ -13,9 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="./assets/badge_python.png" alt="Python" width="100">
-  <img src="./assets/badge_scikit.png" alt="scikit-learn" width="100">
-  <img src="./assets/badge_status.png" alt="Status Concluído" width="100">
+<img src="https://img.shields.io/badge/DeepLearning.AI-Coursera-0056D2?style=for-the-badge&logo=coursera" alt="Curso DeepLearning.AI na Coursera">
+<img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python" alt="Python 3.8+">
+<img src="https://img.shields.io/badge/Scikit--Learn-0.24+-F7931E?style=for-the-badge&logo=scikit-learn" alt="Scikit Learn">
+<img src="https://img.shields.io/badge/Pandas-1.x-150458?style=for-the-badge&logo=pandas" alt="Pandas">
 </p>
 
 <p align="center">
