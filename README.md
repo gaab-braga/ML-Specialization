@@ -69,10 +69,9 @@ Inclui temas como regressão (linear, logística), redes neurais simples, árvor
 ## 📂 Estrutura do Repositório
 
 ```
-📁 course1_regression_classification/
-📁 course2_advanced_learning/
-📁 course3_unsupervised_recommender/
-📄 requirements.txt
+📁 n00_Supervisioned_ML_Reg_Class
+📁 n01_Advanced_learning_Algorithms
+📁 n02_Unsupervised_Recommenders_ Reinforcement
 📄 README.md
 ```
 
@@ -98,8 +97,6 @@ jupyter lab
 ```
 
 ---
-
-## 📜 Certificado
 
 <p align="center">
   <img src="./assets/badge_ml_specialization.png" alt="Badge Machine Learning Specialization" width="180">
