@@ -107,6 +107,3 @@ jupyter lab
 
 ---
 
-<p align="center">
-  <small>Desenvolvido por &lt;Seu Nome&gt;</small>
-</p>
