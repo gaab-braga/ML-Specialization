@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/stanford.png" alt="Badge Machine Learning Specialization" height="100"> |
+<img src="assets/stanford.png" alt="Badge Machine Learning Specialization" height="100">   
 <img src="assets/dp.ai.png" alt="Certificado Machine Learning Specialization" height="100">
 </p>
 
@@ -47,17 +47,17 @@ Inclui temas como regressão (linear, logística), redes neurais simples, árvor
 <table>
 <tr>
 <td align="center" width="50%">
-<strong>Projeto 1: Regressão Linear e Classificação</strong><br/><br/>
-<img src="./assets/projeto_regression.png" alt="Projeto Regressão / Classificação" width="360" style="border-radius: 8px;"><br/><br/>
+<strong>Projeto 1: Regressão Linear Múltipla</strong><br/><br/>
+<img src="assets/RegLinMult.png" alt="Projeto Regressão / Classificação" width="360" style="border-radius: 8px;"><br/><br/>
 <small>Implementação de modelos de regressão linear e regressão logística, análise de erros, regularização e avaliação de desempenho.</small><br/><br/>
-<a href="LINK_PARA_O_NOTEBOOK1">➡️ Ver o Notebook</a>
+<a href="https://github.com/gaab-braga/ML-Specialization/blob/main/n00_Supervisioned_ML_Reg_Class/n02_Multiple_Linear_Regression/n02_C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb">➡️ Ver o Notebook</a>
 </td>
 
 <td align="center" width="50%">
 <strong>Projeto 2: Sistema de Recomendação / Clustering</strong><br/><br/>
-<img src="./assets/projeto_recommendation.png" alt="Projeto Recomendação / Clustering" width="360" style="border-radius: 8px;"><br/><br/>
+<img src="assets/recomend.png" alt="Projeto Recomendação / Clustering" width="360" style="border-radius: 8px;"><br/><br/>
 <small>Implementação de recomendação colaborativa e clustering (K-means, PCA) para dados de usuário / item.</small><br/><br/>
-<a href="LINK_PARA_O_NOTEBOOK2">➡️ Ver o Notebook</a>
+<a href="https://github.com/gaab-braga/ML-Specialization/blob/main/n02_Unsupervised_Recommenders_%20Reinforcement/n02_Collaborative_filtering/HandsOn_C3_W2_Collaborative_RecSys_Assignment.ipynb">➡️ Ver o Notebook</a>
 </td>
 </tr>
 </table>
