@@ -21,8 +21,7 @@
   <a href="#-sobre-a-especialização">Sobre</a> •
   <a href="#-projetos-em-destaque">Projetos</a> •
   <a href="#-estrutura-do-repositório">Estrutura</a> •
-  <a href="#-como-executar-localmente">Como Executar</a> •
-  <a href="#-certificado">Certificado</a>
+  <a href="#-como-executar-localmente">Como Executar</a> 
 </p>
 
 ---
