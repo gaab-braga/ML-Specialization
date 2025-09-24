@@ -22,7 +22,7 @@
   <a href="#-projetos-em-destaque">Projetos</a> •
   <a href="#-estrutura-do-repositório">Estrutura</a> •
   <a href="#-como-executar-localmente">Como Executar</a> •
-  <a href="#-licença-e-créditos">Licençar</a>
+  <a href="#-licença-e-créditos">Licença</a>
 </p>
 
 ---
@@ -101,3 +101,5 @@ Este repositório contém minhas implementações dos exercícios da especializa
 Uso educacional e de portfólio, respeitando a licença original do curso.  
 
 Créditos: **Andrew Ng & DeepLearning.AI (Coursera)**  
+
+---
